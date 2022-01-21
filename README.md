@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alekh19
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Analysis Specialisation
+- 🌱 I’m currently learning Data Analytics Specialisation
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: Pandyaalekh.19@gmail.com
 
